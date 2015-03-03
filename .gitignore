@@ -1,0 +1,8 @@
+.DS_Store
+tmp
+bin
+build
+.apt_generated
+libs
+lib
+.classpath

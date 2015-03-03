@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: This module allows your app to register listeners to the device phone. With this listeners you'll be able to know when the phone is receiving a call, making a call, etc.
+author: Uriel Lizama
+license: MIT
+copyright: Copyright (c) 2015 by Baboon Media
+
+# these should not be edited
+name: phonelistener
+moduleid: com.baboonmedia.phonelistener
+guid: 2aae69b1-2b70-4d89-ab9b-d465b9b5d32d
+platform: android
+minsdk: 3.5.0.GA
